@@ -1,0 +1,6 @@
+{
+  "name": "SewageJet AI - نظام إدارة تطهير وتمليس شبكات الصرف الصحي",
+  "description": "منظومة ذكاء اصطناعي متكاملة لإدارة وتخطيط وجدولة أعمال تطهير مطابق الصرف الصحي وتمليس الخطوط وتوزيع المعدات والعمالة وتتبع الإنجاز اليومي والتقارير الفنية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
